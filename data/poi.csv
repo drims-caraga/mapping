@@ -1,2 +1,22 @@
-Region,Province,City/Municipality,Name of Facility,Latitude,Longitude
+REGION,PROVINCE,CITY/MUNICIPALITY,NAME,LATITUDE,LONGITUDE
 Caraga,Agusan del Norte,Butuan City,Bancasi Airport,8.948581657,125.4811888
+Caraga,Agusan del Norte,Butuan City,Masao Port,9.011645124,125.5034555
+Caraga,Agusan del Norte,Nasipit,Nasipit Port,8.979576519,125.3358912
+Caraga,Surigao del Norte,Surigao City,Surigao CIty Airport,9.760110261,125.4821984
+Caraga,Surigao del Norte,Surigao City,Surigao CIty Seaport,9.783039985,125.5008991
+Caraga,Surigao del Norte,Dapa,Port of Dapa,9.755453656,126.0507391
+Caraga,Surigao del Norte,Del Carmen,Siargao Airport,9.857536596,126.0158714
+Caraga,Surigao del Norte,Claver,Hayanggabon Port,9.54353564,125.8403465
+Caraga,Surigao del Norte,Socorro,Socorro Port,9.61767969,125.966491
+Caraga,Surigao del Norte,Sta. Monica,Sta. Monica Seaport,10.01743995,126.0345166
+Caraga,Surigao del Norte,Surigao City,Nonoc Airport,9.812499,125.5966894
+Caraga,Surigao del Sur,Tandag City,Tandag City Airport,9.072681857,126.1700463
+Caraga,Surigao del Sur,Bislig City,Bislig City Airport,8.198259671,126.3250546
+Caraga,Surigao del Sur,Bislig City,Bislig City Seaport,8.194900181,126.3560453
+Caraga,Province of Dinagat Islands,Cagdianao,Cagdianao Seaport,9.9243564,125.6736056
+Caraga,Province of Dinagat Islands,San Jose,San Jose Seaport,10.00652717,125.5698648
+Caraga,Province of Dinagat Islands,Basilisa,Basilisa Seaport,10.06181927,125.5970175
+Caraga,Province of Dinagat Islands,Basilisa,Basilisa Seaport,10.04453601,125.6037351
+Caraga,Province of Dinagat Islands,Libjo,Libjo Seaport,10.19450414,125.5303754
+Caraga,Province of Dinagat Islands,Tubajon,Tubajon Seaport,10.32517864,125.5568199
+Caraga,Province of Dinagat Islands,Loreto,Loreto Seaport,10.35899612,125.5816081
