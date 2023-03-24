@@ -43,12 +43,9 @@
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
 
+	  L.marker([8.943913531197088, 125.53399750812885]).addTo(map) // EDIT marker coordinates
+	  .bindPopup("DSWD Field Office Caraga"); // EDIT pop-up text message
  
-
-	const popup = L.popup()
-		.setLatLng([8.943913531197088, 125.53399750812885])
-		.setContent('DSWD FO Caraga')
-		.openOn(map);
 
 	function onMapClick(e) {
 		popup
